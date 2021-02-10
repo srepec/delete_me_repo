@@ -6,8 +6,3 @@ try:
 except ValueError:
     print ('Please supply integer arguments')
 
-# adding new features below
-
-# this section is reserved for future dev
-
-# one more change
